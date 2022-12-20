@@ -1,1 +1,1 @@
-Ended at PDF page 64, book page 26. Chapter 2, Numbers
+Ended at book page 41
