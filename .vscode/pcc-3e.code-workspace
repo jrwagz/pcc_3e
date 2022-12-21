@@ -9,7 +9,7 @@
           "python.linting.enabled": true,
           "editor.tabCompletion": "on",
           "editor.snippetSuggestions": "top",
-          "python.defaultInterpreterPath": "python3",
+          "python.defaultInterpreterPath": "python3.10",
           "python.formatting.provider": "black",
           "python.formatting.blackArgs": [
                "--line-length",
