@@ -29,6 +29,11 @@
           "cSpell.words": [
                "ehmatthes",
                "Matthes"
-          ]
+          ],
+          "python.testing.pytestArgs": [
+               "python_work"
+          ],
+          "python.testing.unittestEnabled": false,
+          "python.testing.pytestEnabled": true
      }
 }
